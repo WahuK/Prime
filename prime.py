@@ -9,6 +9,5 @@ def is_prime(number):
 def prime_num(primes):
 	primes = list()
 	for i in range (3, number):
-		if nu
-			return primes
+		return primes
 print (prime_num(30))
